@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d229256"],{dbce:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{attrs:{id:"app"}},[n._v(" 四轮生活 ")])},s=[],u={components:{}},a=u,l=t("2877"),o=Object(l["a"])(a,c,s,!1,null,null,null);e["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d229256.59f63b44.js.map
